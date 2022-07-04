@@ -1,8 +1,8 @@
 # RapidAPI - MyCookbook.io
 
-- Create a RapidAPI account 
-- Navigate into MyCookbook.io 
-	- Find your X-RapidAPI-Key
+- [Create a RapidAPI account](https://github.com/erinerinchan/RapidAPI---MyCookbook.io/blob/main/README.md#create-a-rapidapi-account)
+- [Navigate into MyCookbook.io](https://github.com/erinerinchan/RapidAPI---MyCookbook.io/blob/main/README.md#navigate-into-mycookbookio) 
+	- [Find your X-RapidAPI-Key](https://github.com/erinerinchan/RapidAPI---MyCookbook.io/blob/main/README.md#find-your-x-rapidapi-key)
 
 ## Create a RapidAPI account 
 
