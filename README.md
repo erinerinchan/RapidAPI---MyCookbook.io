@@ -16,5 +16,4 @@ Visit [MyCookbook.io](https://rapidapi.com/mycookbook/api/mycookbook-io1) on the
 
 ### Find your X-RapidAPI-Key
 
-<img width="1440" alt="Screenshot 2022-07-04 at 8 06 14 PM" src="https://user-images.githubusercontent.com/35587864/177152211-7f8bcf0f-5bc2-4e45-b1ca-c24f607ce9ce.png">
-
+![cookbook](https://user-images.githubusercontent.com/35587864/177152328-09546e93-ccc8-4ade-9e31-6c6a8bcc128e.png)
